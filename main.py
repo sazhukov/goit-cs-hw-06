@@ -12,7 +12,7 @@ from pymongo.server_api import ServerApi
 import os
 
 # MongoDB URI
-uri = "mongodb://mongodb:27017"
+uri = "mongodb://mongodb_service:27017"
 
 # HTTP Server Port and UDP Socket Info
 HTTPServer_Port = 3000
